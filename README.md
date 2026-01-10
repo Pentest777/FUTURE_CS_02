@@ -12,8 +12,8 @@ Identify suspicious and malicious activities
 Perform alert triage to separate false positives from real threats
 Classify incidents based on severity, risk, and impact
 Document findings in a professional incident response report
-🛠️ Tools & Technologies
 
+🛠️ Tools & Technologies
 🔹 SIEM Platforms
 Elastic Stack (ELK)
 Elasticsearch – Log storage and indexing
