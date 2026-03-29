@@ -3,7 +3,7 @@
 🔐 Security Alert Monitoring & Incident Response
 📘 Project Description
 This project demonstrates a practical implementation of Security Alert Monitoring and Incident Response using SIEM tools. The primary goal is to simulate real-world SOC (Security Operations Center) activities by monitoring security alerts, analyzing log data, identifying suspicious behavior, classifying incidents, and preparing a structured incident response report.
-The project replicates how SOC analysts detect threats, reduce false positives, investigate alerts, and recommend remediation actions to strengthen an organization’s security posture.
+The project replicates how SOC analysts detect threats, reduce false positives, investigate alerts, and recommend remediation actions to strengthen an organization’s security posture. 
 
 🎯 Project Objectives
 Collect and analyze security logs from multiple sources
